@@ -1,6 +1,8 @@
 # alacritty
 An ambitious theme for alacritty
 
+![Screenshot](./screenshot.png)
+
 ## How to use
 
 Edit alacritty configuration file (usually located at `$XDG_CONFIG_HOME/kitty/kitty.conf`) and copy embark to your
