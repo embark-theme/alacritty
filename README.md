@@ -5,5 +5,5 @@ An ambitious theme for alacritty
 
 ## How to use
 
-Edit alacritty configuration file (usually located at `$XDG_CONFIG_HOME/kitty/kitty.conf`) and copy embark to your
+Edit alacritty configuration file (usually located at `$XDG_CONFIG_HOME/alacritty/alacritty.yml`) and copy embark to your
 [schemes](https://github.com/alacritty/alacritty/wiki/Color-schemes). Once done, set `colors` to `colors: *embark`
