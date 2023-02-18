@@ -5,5 +5,14 @@ An ambitious theme for alacritty
 
 ## How to use
 
-Edit alacritty configuration file (usually located at `$XDG_CONFIG_HOME/alacritty/alacritty.yml`) and copy embark to your
-[schemes](https://github.com/alacritty/alacritty/wiki/Color-schemes). Once done, set `colors` to `colors: *embark`
+Edit alacritty configuration file (usually located at `$XDG_CONFIG_HOME/alacritty/alacritty.yml`) and import embark to your config.
+If you placed `embark.yml` into `$XDG/alacritty/alacritty/themes/embark.yml` then
+the import would look like the following:
+
+```
+import:
+  - ~/.config/alacritty/themes/embark.yml
+```
+
+> See [this](https://github.com/alacritty/alacritty-theme) repo for similar theme
+> handling.
