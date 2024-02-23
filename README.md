@@ -14,5 +14,12 @@ import:
   - ~/.config/alacritty/themes/embark.yml
 ```
 
+### For Version: 0.13.0 or later use TOML instead of YML
+```
+import = [
+  "~/.config/alacritty/themes/embark.toml"
+]
+```
+
 > See [this](https://github.com/alacritty/alacritty-theme) repo for similar theme
 > handling.
